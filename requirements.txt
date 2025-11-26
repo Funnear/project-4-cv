@@ -1,0 +1,32 @@
+# Jupyter & Notebooks
+jupyterlab >= 4.4.10
+ipykernel >= 7.1.0
+
+# Core Python Utilities
+numpy >= 2.3.1
+pandas >= 2.3.1
+
+# Data Visualization
+matplotlib >= 3.9.2
+seaborn >= 0.13.2
+
+# Machine Learning / Statistics
+scikit-learn == 1.7.2
+
+# Deep Learning (Keras + TensorFlow)
+tensorflow >= 2.17.0
+keras >= 3.5.0
+
+# Image Processing
+opencv-python >= 4.10.0.84
+Pillow >= 10.4.0
+
+# for model diagrams & explainability
+graphviz >= 0.20.3
+pydot >= 2.0.0
+
+# Streamlit
+streamlit >= 1.39.0
+
+# Utilities for reproducibility and progress bars
+tqdm >= 4.66.5
