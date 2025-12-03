@@ -51,5 +51,15 @@ This project is divided into several phases, each designed to deepen your unders
 
 # Project resources
 
+This solution is designed and tested only on Mac with Apple chipset.
+
 - [Setup instructions](./docs/setup.md)
 - [Presentation](./presentation/CV_project_demo.pdf)
+
+## To run streamlit app:
+
+```bash
+source .venv/bin/activate; \
+cd src; \
+streamlit run streamlit_app.py
+```
