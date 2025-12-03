@@ -49,3 +49,7 @@ This project is divided into several phases, each designed to deepen your unders
 - Compare the performance of at least three different models or architectures.
 - Provide an interactive demo of your model during the presentation.
 
+# Project resources
+
+- [Setup instructions](./docs/setup.md)
+- [Presentation](./presentation/CV_project_demo.pdf)
